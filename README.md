@@ -2,6 +2,7 @@
 ## To run an app use commands:
 
 - git clone https://github.com/AlexeyKozlov0811/StarNavi-test-task.git
+- cd StarNavi-test-task
 - docker-compose up --build
 
 ## When app is started you will see a message like this:

@@ -8,6 +8,6 @@ RUN pip install -r /requirements.txt
 
 ADD test_app/ /
 
-EXPOSE 8000/tcp
+EXPOSE 8000
 
-CMD hypercorn main:app
+CMD hypercorn main:app --bind 0.0.0.0:8000

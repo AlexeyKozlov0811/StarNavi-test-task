@@ -5,5 +5,4 @@ tortoise-orm >=0.17.5, <0.18
 passlib >=1.7.4, <1.8
 bcrypt >=3.2.0, <3.3
 pyjwt >=2.1.0, <2.2
-tortoise>=0.1.1, <0.2
-pydantic>=1.8.2, <1.9
+pydantic >=1.8.2, <1.9
